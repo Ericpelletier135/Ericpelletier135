@@ -4,8 +4,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericpelletier135&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ericpelletier135&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/Ericpelletier135/BookMyTable">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=BookMyTable" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
