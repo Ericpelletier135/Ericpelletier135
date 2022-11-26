@@ -1,5 +1,4 @@
-### [![MasterHead](https://user-images.githubusercontent.com/48485718/204070879-5008e02c-8908-408b-905d-315cff14c786.png)](https://github.com/Ericpelletier135)
-
+### HERTE
 
 <!--
 **Ericpelletier135/Ericpelletier135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
