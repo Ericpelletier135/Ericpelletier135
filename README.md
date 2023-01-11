@@ -29,14 +29,11 @@
 </a>
 
 ## Full Stack Projects
-
-
-
+<a href="https://github.com/Ericpelletier135/SwimTracker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=SwimTracker" />
+</a>
 <a href="https://github.com/Ericpelletier135/BookMyTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=BookMyTable" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
 <!--
