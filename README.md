@@ -1,10 +1,30 @@
 ### [![MasterHead](https://user-images.githubusercontent.com/48485718/204070879-5008e02c-8908-408b-905d-315cff14c786.png)](https://github.com/Ericpelletier135)
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ericpelletier135&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+## <ins>Machine Learning and AI Projects</ins>
+<a href="https://github.com/Ericpelletier135/KNN-and-Decision-Trees">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=KNN-and-Decision-Trees" />
+</a>
+<a href="https://github.com/Ericpelletier135/Classification-of-Textual-Data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=Classification-of-Textual-Data" />
+</a>
+<a href="https://github.com/Ericpelletier135/Classification-of-Image-Data">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=Classification-of-Image-Data" />
+</a>
+<a href="https://github.com/Ericpelletier135/Reproducibility-in-ML">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=Reproducibility-in-ML" />
+</a>
+<a href="https://github.com/Ericpelletier135/COMP424-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=COMP424-Project" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ericpelletier135&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Distributed Systems
+<a href="https://github.com/Ericpelletier135/RMI-and-TCP-Distribution">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=RMI-and-TCP-Distribution" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ericpelletier135&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Full Stack Applications
+
+
 
 <a href="https://github.com/Ericpelletier135/BookMyTable">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=BookMyTable" />
