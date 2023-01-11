@@ -1,4 +1,6 @@
-### [![MasterHead](https://user-images.githubusercontent.com/48485718/204070879-5008e02c-8908-408b-905d-315cff14c786.png)](https://github.com/Ericpelletier135)
+Hi, I'm Eric and welcome to my Github!
+
+I am currently in my fourth year of Software Engineering at McGill University. Here are some projects that I have worked on.
 
 ## <ins>Machine Learning and AI Projects</ins>
 <a href="https://github.com/Ericpelletier135/KNN-and-Decision-Trees">
