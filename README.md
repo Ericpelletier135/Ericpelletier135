@@ -17,12 +17,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=COMP424-Project" />
 </a>
 
-## Distributed Systems
+## Distributed Systems Projects
 <a href="https://github.com/Ericpelletier135/RMI-and-TCP-Distribution">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=RMI-and-TCP-Distribution" />
 </a>
+<a href="https://github.com/Ericpelletier135/Total-Order-Using-Paxos">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=Total-Order-Using-Paxos" />
+</a>
+<a href="https://github.com/Ericpelletier135/ZooKeeper-Module">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=ZooKeeper-Module" />
+</a>
 
-## Full Stack Applications
+## Full Stack Projects
 
 
 
