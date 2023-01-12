@@ -38,6 +38,11 @@ I am currently in my fourth year of Software Engineering at McGill University. H
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=BookMyTable" />
 </a>
 
+## Rendering Projects
+<a href="https://github.com/Ericpelletier135/Ray-Tracer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ericpelletier135&repo=Ray-Tracer" />
+</a>
+
 <!--
 **Ericpelletier135/Ericpelletier135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
