@@ -1,6 +1,7 @@
-Hi, I'm Eric and welcome to my Github!
+# Welcome To my GitHub
+Hello! I'm Eric, a graduate of Software Engineering from McGill University, currently working through my first year of a Master's degree in Experimental Surgery.
 
-I am currently in my fourth year of Software Engineering at McGill University. Here are some projects that I have worked on.
+Here are some projects that I have worked on:
 
 ## <ins>Machine Learning and AI Projects</ins>
 <a href="https://github.com/Ericpelletier135/KNN-and-Decision-Trees">
